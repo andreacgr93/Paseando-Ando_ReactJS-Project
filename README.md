@@ -1,2 +1,12 @@
 # Paseando-Ando_ReactJS-Project
-Using the Google Places API it can search for a place
+
+“Paseando Ando” – ReactJS Project (HTML5, CSS, Bootstrap and JQuery are also used)
+
+By using the Google Places API it can search for a place and get its address and schedule (if there are any). To optimize the operation of the application, the life cycles of components provided by this framework are used. 
+
+
+
+Paseando Ando – Proyecto ReactJS (HTML5, CSS, Bootstrap, JQuery)
+
+Mediante el uso de la API Google Places se puede hacer la búsqueda de un lugar, y obtener dirección y horario de existir el mismo. Para optimizar el funcionamiento de la app, se usan los ciclos de vida de un componente que brinda este framework 
+
